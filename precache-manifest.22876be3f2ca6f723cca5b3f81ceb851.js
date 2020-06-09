@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39bba6bf370fbfdd206b42dee63e93db",
+    "revision": "c202b86f718961bd216bebe0d20e7a5c",
     "url": "/aframe-ar-app/index.html"
   },
   {
-    "revision": "dd03ddba7fcd78981c41",
+    "revision": "16791115e4e8379c96cc",
     "url": "/aframe-ar-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aframe-ar-app/static/js/2.cc3939e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd03ddba7fcd78981c41",
-    "url": "/aframe-ar-app/static/js/main.5d493c56.chunk.js"
+    "revision": "16791115e4e8379c96cc",
+    "url": "/aframe-ar-app/static/js/main.e6e2e91e.chunk.js"
   },
   {
     "revision": "bccf29d32e39eaf01699",

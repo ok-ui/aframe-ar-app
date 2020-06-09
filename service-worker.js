@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aframe-ar-app/precache-manifest.537bf4586f2e2394858e75e897268193.js"
+  "/aframe-ar-app/precache-manifest.22876be3f2ca6f723cca5b3f81ceb851.js"
 );
 
 self.addEventListener('message', (event) => {
