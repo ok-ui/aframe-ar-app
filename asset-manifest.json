@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aframe-ar-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aframe-ar-app/static/js/main.5d493c56.chunk.js",
+    "main.js.map": "/aframe-ar-app/static/js/main.5d493c56.chunk.js.map",
+    "runtime-main.js": "/aframe-ar-app/static/js/runtime-main.7b430031.js",
+    "runtime-main.js.map": "/aframe-ar-app/static/js/runtime-main.7b430031.js.map",
+    "static/js/2.cc3939e0.chunk.js": "/aframe-ar-app/static/js/2.cc3939e0.chunk.js",
+    "static/js/2.cc3939e0.chunk.js.map": "/aframe-ar-app/static/js/2.cc3939e0.chunk.js.map",
+    "index.html": "/aframe-ar-app/index.html",
+    "precache-manifest.537bf4586f2e2394858e75e897268193.js": "/aframe-ar-app/precache-manifest.537bf4586f2e2394858e75e897268193.js",
+    "service-worker.js": "/aframe-ar-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aframe-ar-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cc3939e0.chunk.js.LICENSE.txt": "/aframe-ar-app/static/js/2.cc3939e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b430031.js",
+    "static/js/2.cc3939e0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5d493c56.chunk.js"
+  ]
+}
